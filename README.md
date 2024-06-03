@@ -19,7 +19,11 @@ NoSQL_analysis_starter.ipynb:
 Exploratory Analysis:
 
 Question 1: It finds establishments with a hygiene score of 20, displays the count, and prints the first document.
+
 Question 2: It finds establishments in London with a RatingValue greater than or equal to 4, displays the count, and prints the first document.
+
 Question 3: It finds the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the "Penang Flavours" restaurant. It converts the result to a DataFrame.
+
 Question 4: It calculates the number of establishments in each Local Authority area with a hygiene score of 0, displays the count, and prints the first 10 results.
+
 These notebooks provide a comprehensive analysis of the UK Food Standards Agency data, including data setup, database updates, and exploratory analysis. They leverage PyMongo for MongoDB interaction and Pandas for data manipulation and analysis, ensuring an effective exploration of the dataset.
